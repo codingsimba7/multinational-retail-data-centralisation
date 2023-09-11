@@ -1,0 +1,6 @@
+db_creds.yaml
+instructions.txt
+local_db_creds.yaml
+store_data.csv
+cleaning_store_data.py
+orders.csv
