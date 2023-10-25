@@ -4,3 +4,5 @@ local_db_creds.yaml
 store_data.csv
 cleaning_store_data.py
 orders.csv
+__pycache__/
+clean_card_data.py
